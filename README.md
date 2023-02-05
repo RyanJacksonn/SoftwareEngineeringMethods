@@ -1,1 +1,1 @@
-Some very simple text I'm adding
+Some very simple text I'm adding.
